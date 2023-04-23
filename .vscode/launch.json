@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "JAVA_118c3808"
+        },
+        {
+            "type": "java",
+            "name": "Launch arraylist",
+            "request": "launch",
+            "mainClass": "arraylist",
+            "projectName": "JAVA_118c3808"
+        },
+        {
+            "type": "java",
+            "name": "Launch collections",
+            "request": "launch",
+            "mainClass": "collections",
+            "projectName": "JAVA_118c3808"
+        },
+        {
+            "type": "java",
+            "name": "Launch eles",
+            "request": "launch",
+            "mainClass": "eles",
+            "projectName": "JAVA_118c3808"
+        },
+        {
+            "type": "java",
+            "name": "Launch example",
+            "request": "launch",
+            "mainClass": "example",
+            "projectName": "JAVA_118c3808"
+        },
+        {
+            "type": "java",
+            "name": "Launch floorsortedar",
+            "request": "launch",
+            "mainClass": "floorsortedar",
+            "projectName": "JAVA_118c3808"
+        },
+        {
+            "type": "java",
+            "name": "Launch freqinar",
+            "request": "launch",
+            "mainClass": "freqinar",
+            "projectName": "JAVA_118c3808"
+        },
+        {
+            "type": "java",
+            "name": "Launch hacker",
+            "request": "launch",
+            "mainClass": "hacker",
+            "projectName": "JAVA_118c3808"
+        },
+        {
+            "type": "java",
+            "name": "Launch inp",
+            "request": "launch",
+            "mainClass": "inp",
+            "projectName": "JAVA_118c3808"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertcc",
+            "request": "launch",
+            "mainClass": "insertcc",
+            "projectName": "JAVA_118c3808"
+        },
+        {
+            "type": "java",
+            "name": "Launch leaderar",
+            "request": "launch",
+            "mainClass": "leaderar",
+            "projectName": "JAVA_118c3808"
+        },
+        {
+            "type": "java",
+            "name": "Launch linked",
+            "request": "launch",
+            "mainClass": "linked",
+            "projectName": "JAVA_118c3808"
+        },
+        {
+            "type": "java",
+            "name": "Launch loop",
+            "request": "launch",
+            "mainClass": "loop",
+            "projectName": "JAVA_118c3808"
+        },
+        {
+            "type": "java",
+            "name": "Launch map1",
+            "request": "launch",
+            "mainClass": "map1",
+            "projectName": "JAVA_118c3808"
+        },
+        {
+            "type": "java",
+            "name": "Launch maths",
+            "request": "launch",
+            "mainClass": "maths",
+            "projectName": "JAVA_118c3808"
+        },
+        {
+            "type": "java",
+            "name": "Launch maxdif",
+            "request": "launch",
+            "mainClass": "maxdif",
+            "projectName": "JAVA_118c3808"
+        },
+        {
+            "type": "java",
+            "name": "Launch operations",
+            "request": "launch",
+            "mainClass": "operations",
+            "projectName": "JAVA_118c3808"
+        },
+        {
+            "type": "java",
+            "name": "Launch outp",
+            "request": "launch",
+            "mainClass": "outp",
+            "projectName": "JAVA_118c3808"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "JAVA_118c3808"
+        },
+        {
+            "type": "java",
+            "name": "Launch rotatear",
+            "request": "launch",
+            "mainClass": "rotatear",
+            "projectName": "JAVA_118c3808"
+        }
+    ]
+}
