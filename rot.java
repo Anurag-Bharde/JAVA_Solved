@@ -7,7 +7,7 @@ public class rot{
            ar[i]=(n-1)%n;
         }
         for(int i=0;i<ar.length;i++){
-           System.out.println(ar[i]);
+           System.out.println(arsta[i]);
         }
     }
 }
