@@ -1,7 +1,7 @@
 import java.util.*;
 public class nextgrt{
     public static void main(String[] args) {
-        int ar[]={6,8,0,1,3};
+        int ar[]={1,3,2,4};
         int ar2[]=new int[ar.length];
         Stack<Integer> st=new Stack<>();
         int i=0;
